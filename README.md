@@ -5,6 +5,7 @@ A collection of simple applications
 ## ahoracado-game
 A simple javascript and jquery hangman game for a little seminar about jQuery in Telematic Applications course (2012)
 This code was imported from local file.
+![](https://raw.githubusercontent.com/emu0/simple-code/master/Ahorcado-game/Samples/Pantallazo-2.png)
 
 
 ## connect4-game
